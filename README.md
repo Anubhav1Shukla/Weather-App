@@ -1,5 +1,4 @@
 
-Sure! Here's a sample README file for your weather forecast project:
 
 Weather Forecast Web Application
 This is a web application that provides weather forecasts using HTML, Bootstrap, and JavaScript. It utilizes an API from RapidAPI to fetch weather data.
